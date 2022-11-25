@@ -113,10 +113,19 @@ body{
     margin-bottom: 20px;
 }
 
+.col{
+    color: #BCC0C1;
+}
+
+.col-popular{
+    color: #EA7A6C;
+}
+
 .price-time{
     position: absolute;
     top: 45px;
     left: 80px;
+    font-weight: bold;
 }
 
 .colored-line{
